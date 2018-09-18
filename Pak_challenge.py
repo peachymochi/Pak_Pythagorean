@@ -1,6 +1,7 @@
 """
 Write a program that will ask the user to enter in three legs of a triangle and then test to see if the triangle is
 """
+print ("Please enter in three legs of a triangle: ")
 a = int(input("Please enter side a: "))
 b = int(input("Please enter side b: "))
 c = int(input("Please enter side c: "))
