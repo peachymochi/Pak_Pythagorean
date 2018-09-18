@@ -13,7 +13,6 @@ print ("Please enter the lengths of the legs 'a' and 'b' of the right triangle i
 a = float(input("a: "))
 b = float(input("b: "))
 
-
 #calculating the lenght of the hypotenuse "c"
 c = (a**2 + b**2)**(1/2)
 print ("The value of 'c' is " +str(c) + " which is also called the hypotenuse.")
