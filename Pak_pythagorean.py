@@ -1,5 +1,6 @@
 """
 Write a program that will ask the user to enter their name and respond with a greeting using this name.
+Then ask make the program ask the user to enter values for a and b in order to calculate c.
 """
 
 #Name and Greeting
